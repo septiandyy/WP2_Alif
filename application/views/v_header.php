@@ -12,7 +12,7 @@ base_url() ?>assets/css/stylebuku.css">
         <header>
             <hgroup>
                 <h1>RentalBuku.net</h1>
-                <h3>Membuat Template Sederhana dengan
+                <h3>Membuat Template Sederhana dengann
 CodeIgniter</h3>
             </hgroup>
             <nav>
